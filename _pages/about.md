@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at Gaoling School of Artificial Intelligence (GSAI) in Renmin University of China (RUC), supervised by Prof. Rui Yan. My major interests include Large Language Models, AI for Science, and Autonomous Agents.
+I am a Ph.D. candidate at Gaoling School of Artificial Intelligence (GSAI) in Renmin University of China (RUC), supervised by Prof. Rui Yan. My major interests include Large Language Models, AI for Science, and Autonomous Agents. 
 
 News
 ======
-- *2024.10:* One paper about GUI agents is accepted by KDD 2025 (August cycle). Congratulations to Yuxuan Liu and other co-authors!
-- *2024.05:* Two papers about LLM-based reasoning and GUI agent benchmark are accepted by ACL 2024 (main conference). Congratulations to Weikai Xu and other co-authors!
-- 2024.02: One paper was accepted by WWW 2024. Congratulations to Yuxuan Liu and other co-authors!
-- 
+- `2024.10:` One paper about GUI agents is accepted by KDD 2025 (August cycle). Congratulations to Yuxuan Liu and other co-authors!
+- `2024.05:` Two papers about LLM-based reasoning and GUI agent benchmark are accepted by ACL 2024 (main conference). Congratulations to Weikai Xu and other co-authors!
+- `2024.02:` One paper about multi-role LLMs is accepted by WWW 2024. Congratulations to Yuxuan Liu and other co-authors!
+- `2024.11:` One paper about EHR data synthesis is accepted by AAAI 2024. Congratulations to Hongzhan Lin and other co-authors!
+- `2024.08`: One paper about conversational neural topic model is accepted by AAAI 2023. Congratulations to Quan Tu and other co-authors!
 
 
 
