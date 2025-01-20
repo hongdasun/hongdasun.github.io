@@ -25,14 +25,14 @@ author:
   name             : "Hongda Sun"
   pronouns         : # example: "he/his"  
   bio              : "Renmin University of China"
-  location         : "Earth"
+  location         : "China"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "sunhongda98@ruc.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com.hk/citations?user=OxL7P9cAAAAJ"
+  googlescholar    : # "https://scholar.google.com.hk/citations?user=OxL7P9cAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
