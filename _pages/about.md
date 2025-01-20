@@ -15,6 +15,7 @@ News
 ======
 - `2025.01:` Invited to be a Reviewer for KDD 2025.
 - `2024.12:` Invited to be a Reviewer for ICML 2025.
+- `2024.12:` One paper about the multi-role LLMs for fact-checking is accepted by AAAI 2025 (oral presentation). Congratulations to all co-authors!
 - `2024.12:` Invited to be the Program committee of WWW 2025.
 - `2024.10:` One paper about the GUI multi-agent framework is accepted by KDD 2025 (August cycle). Congratulations to all co-authors!
 - `2024.10:` Invited to be a Reviewer of ICLR 2025.
