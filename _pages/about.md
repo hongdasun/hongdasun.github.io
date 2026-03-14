@@ -14,17 +14,21 @@ Hongda Sun is a Senior Algorithm Researcher at Alibaba Group. He received his Ph
 
 News
 ======
-- `2026.03:` Invited to be a Reviewer for KDD 2026.
-- `2026.02:` Invited to be a Reviewer for ICML 2026.
-- `2026.01:` Invited to be a Reviewer for ACL 2026.
-- `2025.01:` Invited to be a Reviewer for KDD 2025.
-- `2024.12:` Invited to be a Reviewer for ICML 2025.
-- `2024.12:` One paper about the multi-role LLMs for fact-checking is accepted by AAAI 2025 (oral presentation). Congratulations to all co-authors!
-- `2024.12:` Invited to be the Program committee of WWW 2025.
-- `2024.10:` One paper about the GUI multi-agent framework is accepted by KDD 2025 (August cycle). Congratulations to all co-authors!
-- `2024.10:` Invited to be a Reviewer of ICLR 2025.
-- `2024.05:` Two papers about LLM-based reasoning and GUI agent benchmark are accepted by ACL 2024 main conference. Congratulations to all co-authors!
-- `2024.02:` One paper about multi-role LLMs for open-domain QA is accepted by WWW 2024 (oral presentation). Congratulations to all co-authors!
+- `2026.03:` Invited to serve as a Reviewer for KDD 2026.
+- `2026.02:` Invited to serve as a Reviewer for ICML 2026.
+- `2026.01:` Invited to serve as a Reviewer for ACL ARR 2026.
+- `2025.10:` Invited to serve as a Reviewer of ICLR 2026.
+- `2025.08:` Invited to serve as a Reviewer of WWW 2026.
+- `2025.05:` One paper on LLM-empowered online job seeking and recruiting accepted to KDD 2025 (Oral presentation). Congratulations to all co-authors!
+- `2025.05:` Two papers on medical dialogue generation and a situated TTS dataset accepted to ACL 2025. Congratulations to all co-authors!
+- `2025.01:` Invited to serve as a Reviewer for KDD 2025 (Feb cycle).
+- `2024.12:` Invited to serve as a Reviewer for ICML 2025.
+- `2024.12:` One paper about the multi-role LLMs for fact-checking accepted to AAAI 2025 (Oral presentation). Congratulations to all co-authors!
+- `2024.12:` Invited to serve on the Program committee for WWW 2025.
+- `2024.10:` One paper on the GUI multi-agent framework accepted to KDD 2025 (Aug cycle). Congratulations to all co-authors!
+- `2024.10:` Invited to serve as a Reviewer for ICLR 2025.
+- `2024.05:` Two papers on LLM-based reasoning and GUI agent benchmark accepted by ACL 2024 main conference. Congratulations to all co-authors!
+- `2024.02:` One paper about multi-role LLMs for open-domain QA accepted to WWW 2024 (Oral presentation). Congratulations to all co-authors!
 
 <!-- 
 
