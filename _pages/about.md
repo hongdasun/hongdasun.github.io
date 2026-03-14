@@ -9,7 +9,8 @@ redirect_from:
 
 About Me
 ======
-Hongda Sun is a Ph.D. candidate at Gaoling School of Artificial Intelligence (GSAI) in Renmin University of China (RUC), supervised by Prof. Rui Yan. He has published 10 papers in the CCF conferences His major interests include AI for Healthcare, Large Language Models, and Autonomous Agents. 
+Hongda Sun is a Senior Algorithm Researcher at Alibaba Group. He received his Ph.D. from Gaoling School of Artificial Intelligence, Renmin University of China (GSAI, RUC) in 2025, under the supervision of Prof. Rui Yan. His research interests include multimodal reasoning, large language models and intelligent agents, and AI for healthcare. He has published more than 20 papers in CCF-A conferences, focusing on advancing machine intelligent systems with enhanced reasoning and real-world application capabilities.
+ 
 
 News
 ======
@@ -21,10 +22,8 @@ News
 - `2024.10:` Invited to be a Reviewer of ICLR 2025.
 - `2024.05:` Two papers about LLM-based reasoning and GUI agent benchmark are accepted by ACL 2024 main conference. Congratulations to all co-authors!
 - `2024.02:` One paper about multi-role LLMs for open-domain QA is accepted by WWW 2024 (oral presentation). Congratulations to all co-authors!
-- `2023.11:` One paper about EHR data synthesis is accepted by AAAI 2024. Congratulations to all co-authors!
 
-
-
+<!-- 
 
 
 Getting started
@@ -58,4 +57,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
