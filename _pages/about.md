@@ -14,6 +14,9 @@ Hongda Sun is a Senior Algorithm Researcher at Alibaba Group. He received his Ph
 
 News
 ======
+- `2026.03:` Invited to be a Reviewer for KDD 2026.
+- `2026.02:` Invited to be a Reviewer for ICML 2026.
+- `2026.01:` Invited to be a Reviewer for ACL 2026.
 - `2025.01:` Invited to be a Reviewer for KDD 2025.
 - `2024.12:` Invited to be a Reviewer for ICML 2025.
 - `2024.12:` One paper about the multi-role LLMs for fact-checking is accepted by AAAI 2025 (oral presentation). Congratulations to all co-authors!
