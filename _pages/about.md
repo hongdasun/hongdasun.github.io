@@ -30,6 +30,32 @@ Hongda Sun is a Senior Algorithm Researcher at Alibaba Group. He received his Ph
 - `2024.05:` Two papers on LLM-based reasoning and GUI agent benchmark accepted by ACL 2024 main conference. Congratulations to all co-authors!
 - `2024.02:` One paper about multi-role LLMs for open-domain QA accepted to WWW 2024 (Oral presentation). Congratulations to all co-authors!
 
+
+---
+
+📝 Main Publications
+======
+Hongda Sun, Hongzhan Lin, Haiyu Yan, Yang Song, Xin Gao, Rui Yan. MockLLM: A Multi-Agent Behavior Collaboration Framework for Online Job Seeking and Recruiting. *KDD 2025 oral*, CCF-A
+
+Hongda Sun, Jiaren Peng, Wenzhong Yang, Liang He, Bo Du, Rui Yan. Enhancing Medical Dialogue Generation through Knowledge Refinement and Dynamic Prompt Adjustment. *ACL 2025*, CCF-A
+
+Hongda Sun, Weikai Xu, Wei Liu, Jian Luan, Bin Wang, Shuo Shang, Ji-Rong Wen, Rui Yan. DetermLR: Augmenting LLM-based Logical Reasoning from Indeterminacy to Determinacy. *ACL 2024*, CCF-A
+
+Hongda Sun, Yuxuan Liu, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo Shang, Rui Yan. Harnessing multi-role capabilities of large language models for open-domain question answering. *WWW 2024 oral*, CCF-A
+
+Hongda Sun, Hongzhan Lin, Rui Yan. Collaborative synthesis of patient records through multi-visit health state inference. *AAAI 2024*, CCF-A
+
+Hongda Sun, Quan Tu, Jinpeng Li, Rui Yan. Convntm: conversational neural topic model. *AAAI 2023*, CCF-A
+
+Hongda Sun, Shufang Xie, Shuqi Li, Yuhan Chen, Ji-Rong Wen, Rui Yan. Debiased, longitudinal and coordinated drug recommendation through multi-visit clinic records. *NeurIPS 2022*, CCF-A
+
+Yuxuan Liu*, **Hongda Sun***, Wei Liu, Jian Luan, Bo Du, Rui Yan. MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions. *KDD 2025*, CCF-A
+
+Chuanqi Cheng*, **Hongda Sun***, Xinrong Hu, Rui Yan. DNASpeech: A Contextualized and Situated Text-to-Speech Dataset with Dialogues, Narratives and Actions. *ACL 2025*, CCF-A
+
+Shihan Deng*, Weikai Xu*, **Hongda Sun***, Wei Liu, Tao Tan, Liujianfeng, Ang Li, Jian Luan, Bin Wang, Rui Yan, Shuo Shang. Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents. *ACL 2024*, CCF-A
+
+
 <!-- 
 
 
