@@ -12,7 +12,7 @@ About Me
 Hongda Sun is a Senior Algorithm Researcher at Alibaba Group. He received his Ph.D. from Gaoling School of Artificial Intelligence, Renmin University of China (GSAI, RUC) in 2025, under the supervision of Prof. Rui Yan. His research interests include multimodal reasoning, large language models and intelligent agents, and AI for healthcare. He has published more than 20 papers in CCF-A conferences, focusing on advancing machine intelligent systems with enhanced reasoning and real-world application capabilities.
  
 
-News
+📢 News
 ======
 - `2026.03:` Invited to serve as a Reviewer for KDD 2026.
 - `2026.02:` Invited to serve as a Reviewer for ICML 2026.
